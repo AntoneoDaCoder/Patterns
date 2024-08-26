@@ -1,0 +1,14 @@
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\bin\Debug\net8.0\Fabric.exe
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\bin\Debug\net8.0\Fabric.deps.json
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\bin\Debug\net8.0\Fabric.runtimeconfig.json
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\bin\Debug\net8.0\Fabric.dll
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\bin\Debug\net8.0\Fabric.pdb
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\obj\Debug\net8.0\Fabric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\obj\Debug\net8.0\Fabric.AssemblyInfoInputs.cache
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\obj\Debug\net8.0\Fabric.AssemblyInfo.cs
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\obj\Debug\net8.0\Fabric.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\obj\Debug\net8.0\Fabric.dll
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\obj\Debug\net8.0\refint\Fabric.dll
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\obj\Debug\net8.0\Fabric.pdb
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\obj\Debug\net8.0\Fabric.genruntimeconfig.cache
+C:\Users\Anton\Documents\Labs\Random\Patterns\Fabric\obj\Debug\net8.0\ref\Fabric.dll
