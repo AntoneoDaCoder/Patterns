@@ -1,0 +1,14 @@
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\bin\Debug\net8.0\Abstract_Factory.exe
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\bin\Debug\net8.0\Abstract_Factory.deps.json
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\bin\Debug\net8.0\Abstract_Factory.runtimeconfig.json
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\bin\Debug\net8.0\Abstract_Factory.dll
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\bin\Debug\net8.0\Abstract_Factory.pdb
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\obj\Debug\net8.0\Abstract_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\obj\Debug\net8.0\Abstract_Factory.AssemblyInfoInputs.cache
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\obj\Debug\net8.0\Abstract_Factory.AssemblyInfo.cs
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\obj\Debug\net8.0\Abstract_Factory.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\obj\Debug\net8.0\Abstract_Factory.dll
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\obj\Debug\net8.0\refint\Abstract_Factory.dll
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\obj\Debug\net8.0\Abstract_Factory.pdb
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\obj\Debug\net8.0\Abstract_Factory.genruntimeconfig.cache
+C:\Users\Anton\Documents\Labs\Random\Patterns\Abstract_Factory\obj\Debug\net8.0\ref\Abstract_Factory.dll
